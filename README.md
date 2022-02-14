@@ -7,4 +7,6 @@ Here is a preview of the view:
 <img src="1.png" width="400" alt="Preview">
 
 
+## Projects using FontDesigner
+
 I used this font picker in my [Workout Map](https://github.com/andre0707/WorkoutMap) app.
