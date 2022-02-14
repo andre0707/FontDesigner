@@ -1,6 +1,6 @@
 # FontDesigner
 
-A small SwiftUI view to pick a UIFont, add a font color and a font size to it and see the preview live.
+A small SwiftUI view to pick a `UIFont`, add a font color and a font size to it and see the preview live.
 
 Here is a preview of the view:
 
